@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+img{
+    display: block;
+    width: 260px;
+    margin: 0 auto;
+}
+
+input{
+    display: block;
+    margin: 20px auto;
+    width: 400px;
+    padding: 8px 20px;
+    border-radius: 25px;
+    border: 1px solid #ccc;
+}
+.box{
+       display: flex;
+       margin:0 auto;
+       justify-content: center;
+    }
+.b1{
+    padding-left: 2px;
+}
+.main{
+    margin-top: 200px;
+
+}
